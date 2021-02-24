@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns:i="&#38;ns_ai;" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 212 217" xml:space="preserve" width="212" height="217">
+  <metadata id="metadata228"/>
+  <defs id="defs226"/>
+  <style type="text/css" id="style139">
+	.st0{fill:#37474F;}
+	.st1{font-family:'ProductSans-Regular';}
+	.st2{font-size:177.8187px;}
+	.st3{fill:#1565C0;}
+	.st4{opacity:0.2;}
+	.st5{fill:#231F20;}
+	.st6{fill:#2196F3;}
+</style>
+  <switch id="switch221" transform="translate(0,-0.34647)">
+    <foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1"/>
+    <g id="g219">
+      <g id="g326" transform="translate(-47,-434.65353)">
+        <g id="g149">
+          <image id="image143" transform="translate(65,513)" height="64" width="176" style="overflow:visible;opacity:0.2"/>
+          <g id="g147">
+            <polyline id="polyline145" points="77.1,560.9 116.1,521.7 189.4,521.7 228.4,560.9     " class="st3" style="fill:#1565c0"/>
+          </g>
+        </g>
+        <g id="g157">
+          <image id="image151" transform="translate(104,572)" height="44" width="61" style="overflow:visible;opacity:0.2"/>
+          <g id="g155">
+            <polyline id="polyline153" points="152.8,599.7 116.1,599.6 134.1,580.9 152.8,599.7     " class="st3" style="fill:#1565c0"/>
+          </g>
+        </g>
+        <g id="g167">
+          <g id="g161" class="st4" style="opacity:0.2">
+            <path id="path159" d="M 153.2,591.3" class="st5" style="fill:#231f20"/>
+          </g>
+          <g id="g165">
+            <path id="path163" d="M 153.2,587.3" class="st3" style="fill:#1565c0"/>
+          </g>
+        </g>
+        <g id="g175">
+          <image id="image169" transform="translate(104,591)" height="61" width="98" style="overflow:visible;opacity:0.2"/>
+          <g id="g173">
+            <polyline id="polyline171" points="152.8,636 152.8,636 189.4,599.6 152.8,599.7 152.8,599.7 152.8,599.7 152.8,599.7 116.1,599.6       152.8,636     " class="st6" style="fill:#2196f3"/>
+          </g>
+        </g>
+        <g id="g183">
+          <image id="image177" transform="translate(140,572)" height="44" width="62" style="overflow:visible;opacity:0.2"/>
+          <g id="g181">
+            <polyline id="polyline179" points="152.8,599.7 189.4,599.6 171.5,580.9 152.8,599.7     " class="st3" style="fill:#1565c0"/>
+          </g>
+        </g>
+        <g id="g191">
+          <image id="image185" transform="translate(47,435)" height="142" width="212" style="overflow:visible;opacity:0.2"/>
+          <g id="g189">
+            <path id="path187" d="m 152.8,485 36.6,36.6 v 0 l 39,39.2 16.1,-16.1 c 2.6,-2.6 2.6,-6.7 0,-9.2 l -45.1,-45.1 c -0.1,-0.1 -0.2,-0.2 -0.3,-0.3 l -46.4,-46.4 v 0 0 0 0 l -46.4,46.4 c -0.1,0.1 -0.2,0.2 -0.3,0.3 l -45,45.1 c -2.6,2.6 -2.6,6.7 0,9.2 l 16.1,16.1" class="st6" style="fill:#2196f3"/>
+          </g>
+        </g>
+        <g id="g201">
+          <g id="g195" class="st4" style="opacity:0.2">
+            <path id="path193" d="M 152.4,591.4" class="st5" style="fill:#231f20"/>
+          </g>
+          <g id="g199">
+            <path id="path197" d="M 152.4,587.4" class="st3" style="fill:#1565c0"/>
+          </g>
+        </g>
+        <g id="g209">
+          <image id="image203" transform="translate(86,513)" height="103" width="134" style="overflow:visible;opacity:0.2"/>
+          <g id="g207">
+            <path id="path205" d="m 100.1,574.3 c -2.6,2.6 -2.6,6.7 0,9.2 l 16,16 36.6,-36.6 36.6,36.6 16,-16 c 2.6,-2.6 2.6,-6.7 0,-9.2 l -52.7,-52.7 v 0 0 0" class="st6" style="fill:#2196f3"/>
+          </g>
+        </g>
+        <g id="g217" class="st4" style="opacity:0.2">
+          <path id="path211" d="m 244.6,535.5 -45.1,-45.1 c -0.1,-0.1 -0.2,-0.2 -0.3,-0.3 L 152.8,443.7 V 485 l 36.6,36.6 H 152.8 V 563 l 18.3,18.3 -18.3,18.5 V 636 l 36.6,-36.4 16,-16 c 2.6,-2.6 2.6,-6.7 0,-9.2 l -13.5,-13.5 h 36.5 v 0 l 16.1,-16.1 c 2.6,-2.6 2.6,-6.7 0.1,-9.3 z"/>
+          <polygon id="polygon213" points=""/>
+          <path id="path215" d="M 152.8,521.7 Z"/>
+        </g>
+      </g>
+    </g>
+  </switch>
+</svg>
